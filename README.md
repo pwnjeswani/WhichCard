@@ -17,6 +17,8 @@ Basic goals of the application are -
 
 I am new in Machine Learning. It will be great to learn and work with expert on this project. 
 
+[![pawan's github stats](https://github-readme-stats.vercel.app/api?username=pwnjeswani)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **Google's Help -**
 - Assign me a Mentor for the project
